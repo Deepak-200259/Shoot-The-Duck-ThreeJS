@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pine tree low poly test
+* source:	https://sketchfab.com/3d-models/pine-tree-low-poly-test-1c1bea2a47d24a54b4a5b5736556077d
+* author:	LowPolyGod (https://sketchfab.com/Catch123)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pine tree low poly test" (https://sketchfab.com/3d-models/pine-tree-low-poly-test-1c1bea2a47d24a54b4a5b5736556077d) by LowPolyGod (https://sketchfab.com/Catch123) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
